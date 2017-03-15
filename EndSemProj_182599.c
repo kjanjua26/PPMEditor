@@ -3,18 +3,18 @@
 //*********************************************
 //** Coded by: Raja Hasnain Anwar *
 //**			 Muhammad Kamran Janjua *
-//**			 Ali Hasaan Mughal *
 //*********************************************
 //** Platform used: Sublime Text 3 *
 //**				  MingW GCC on PowerShell *
 //*********************************************
-//** Purpose: A hands-on approach to file *
+//** Purpose: 		A hands-on approach to file *
 //**			handling in C. Using that, *
 //**			editing images of .ppm type. *
 //*********************************************
-//** Usage: Asks user to enter the in and out *
+//** Usage: 	Asks user to enter the in and out *
 //**		  file names and select an option *
 //**		  from menu to edit the images. *
+//**		A mini photoshop version in C.*
 //********************************************/
 
 	//>>>>> HEADER FILES <<<<<
